@@ -127,7 +127,8 @@ I'm also deeply interested in topics like GDPR, ISO 27001, and security audits.
 
 ## 🙌 Philosophy
 
-> "Automate what’s boring, secure what matters, scale what works."  
-> Always curious, always ready to take on new challenges!
+> "There’s only one rule in this jungle:"
+> "when the lion’s hungry, he eats."
+> "— The Gentlemen (2020)"
 ---
 
