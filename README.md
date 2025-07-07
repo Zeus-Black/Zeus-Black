@@ -2,18 +2,18 @@
 
 ## 👋 About Me
 
-Salut ! Je suis Lucas, j'ai 22 ans et je suis étudiant en école d'ingénieur en informatique et je suis passionné par **Linux, le DevOps, le cloud, la cybersécurité et les systèmes distribués**.
+Hi there! I'm Lucas, 22 years old, currently studying computer engineering. I'm passionate about **Linux, DevOps, cloud computing, cybersecurity, and distributed systems**.
 
-Depuis mes débuts, je suis fasciné par la capacité des technologies à automatiser, sécuriser et fiabiliser les logiciels d'aujourd'hui.  
-J’ai conçu, testé et maintenu des infrastructures complexes, mis en place des pipelines CI/CD robustes et des environnements cloud hautement disponibles, au fil de mes expériences au sein de grands groupes spécialisés dans la sécurité.
-Je m'intéresse également beaucoup aux enjeux RGPD, ISO 27001 et aux audits de sécurité.
+From the very beginning, I’ve been fascinated by how technology can automate, secure, and increase the reliability of today’s software.  
+I've designed, tested, and maintained complex infrastructures, implemented robust CI/CD pipelines, and managed highly available cloud environments through experiences in major security-focused organizations.  
+I'm also deeply interested in topics like GDPR, ISO 27001, and security audits.
 
-💡 **Mes objectifs :**
-- Développer des plateformes résilientes, sécurisées et scalables pour la production comme pour le développement.
-- Simplifier la vie des devs et des ops grâce à des pipelines automatisés respectant les meilleures pratiques DevSecOps.
-- Accompagner les SRE avec des stacks de supervision précises afin d’éviter toute perte de disponibilité.
-- Pouvoir travailler aisément dans des environnements non conventionnels ou classifiés.
-- Continuer à apprendre et partager ma passion, notamment autour de la conteneurisation et du cloud hybride.
+💡 **My goals:**
+- Develop resilient, secure, and scalable platforms for both production and development environments.
+- Make developers’ and ops’ lives easier with automated pipelines that follow the best DevSecOps practices.
+- Support SRE teams with precise monitoring stacks to avoid any downtime.
+- Be able to work seamlessly in non-conventional or highly classified environments.
+- Keep learning and sharing my passion, especially around containerization and hybrid cloud architectures.
 
 ---
 
@@ -62,25 +62,22 @@ Je m'intéresse également beaucoup aux enjeux RGPD, ISO 27001 et aux audits de 
 ![ELK](https://img.shields.io/badge/ELK%20Stack-005571?style=flat&logo=elasticstack&logoColor=white)
 
 ---
-
 ## 🚀 Projects & What I Do
 
 💥 **Infrastructure as Code**  
-- Déploiement automatisé d’environnements Docker Swarm & Kubernetes avec Ansible et Terraform.  
-- Mise en place de clusters haute disponibilité, load balancing et auto-healing, avec supervision complète.
+- Automated deployment of Docker Swarm & Kubernetes environments using Ansible and Terraform.  
+- Setup of high-availability clusters with load balancing, auto-healing, and complete monitoring stacks.
 
 🛠 **CI/CD & DevSecOps**  
-- Pipelines GitLab CI/CD pour builder, tester, scanner (SAST/DAST avec Snyk, Bearer, SonarQube), et déployer automatiquement.  
-- Intégration de Jenkins, ArgoCD, Portainer et Rancher pour faciliter les workflows DevOps et renforcer la sécurité.
+- Building robust GitLab CI/CD pipelines to compile, test, scan (SAST/DAST with Snyk, Bearer, SonarQube), and deploy automatically.  
+- Integrating Jenkins, ArgoCD, Portainer, and Rancher to streamline DevOps workflows and strengthen security.
 
-🎨 **Dashboards & UX interne**  
-- Développement de dashboards type Homer/Okta en HTML/CSS/JS pour centraliser l’accès à tous les outils internes.
+🎨 **Dashboards & Internal UX**  
+- Developing Homer/Okta-style dashboards in HTML/CSS/JS to centralize access to all internal tools.
 
 🤖 **AI & Code Automation**  
-- Déploiement et test de modèles open-source (Codestral, Mamba) sur serveurs GPU pour générer du code et assister le debug dans VS Code.  
-- Exploration de la musique générative en Python (projets de micro-house minimal).
-
----
+- Deploying and testing open-source models (Codestral, Mamba) on GPU servers to generate code and assist with debugging directly in VS Code.  
+- Exploring generative music in Python (micro-house minimal projects).
 
 ## 📈 My GitHub Stats
 
@@ -91,12 +88,10 @@ Je m'intéresse également beaucoup aux enjeux RGPD, ISO 27001 et aux audits de 
 
 ## 🌱 Currently Learning
 
-- 🏗️ Kubernetes avancé (opérateurs, CRD, multi-cluster HA)
-- 🔐 Sécurité cloud (Zero Trust, IAM, MFA centralisé)
-- 🚀 CI/CD multiplateforme avec Travis CI, CircleCI, Bamboo
-- 🎼 Algorithmes d’IA générative pour la musique et le code
-
----
+- 🏗️ Advanced Kubernetes (operators, CRDs, multi-cluster high availability)
+- 🔐 Cloud security (Zero Trust, IAM, centralized MFA)
+- 🚀 Multi-platform CI/CD with Travis CI, CircleCI, Bamboo
+- 🎼 Generative AI algorithms for music and code
 
 ## 🏅 Certifications
 
@@ -109,13 +104,13 @@ Je m'intéresse également beaucoup aux enjeux RGPD, ISO 27001 et aux audits de 
 
 ---
 
-✅ **Détails :**
-- 🎯 **CKA (Certified Kubernetes Administrator)** : gestion avancée de clusters Kubernetes en prod.
-- 🛡 **CSNA (Certified Stormshield Network Administrator)** : configuration et supervision de firewalls Stormshield.
-- 📊 **Zabbix Certified Specialist** : maîtrise du monitoring distribué avec alerting avancé.
-- 🔐 **ISO 27005 Certified** : expertise sur l’analyse de risque et la gestion de la sécurité de l’information.
-- 🖥 **RHCA (Red Hat Certified Architect)** : design et déploiement de solutions Linux complexes.
-- 🚀 **RHCE (Red Hat Certified Engineer)** : en cours de validation, pour approfondir encore le tuning & troubleshooting Linux.
+✅ **Details:**
+- 🎯 **CKA (Certified Kubernetes Administrator)**: advanced management of Kubernetes clusters in production.
+- 🛡 **CSNA (Certified Stormshield Network Administrator)**: configuration and supervision of Stormshield firewalls.
+- 📊 **Zabbix Certified Specialist**: expertise in distributed monitoring with advanced alerting.
+- 🔐 **ISO 27005 Certified**: risk analysis and information security management.
+- 🖥 **RHCA (Red Hat Certified Architect)**: designing and deploying complex Linux solutions.
+- 🚀 **RHCE (Red Hat Certified Engineer)**: currently in progress, to deepen Linux tuning and troubleshooting skills.
 
 ---
 
@@ -129,7 +124,5 @@ Je m'intéresse également beaucoup aux enjeux RGPD, ISO 27001 et aux audits de 
 ## 🙌 Philosophy
 
 > "Automate what’s boring, secure what matters, scale what works."  
->  
-> Toujours curieux, toujours prêt à relever de nouveaux défis !
-
+> Always curious, always ready to take on new challenges!
 ---
