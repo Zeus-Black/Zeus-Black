@@ -1,4 +1,4 @@
-h1 align="center">Lucas — DevSecOps, SRE & Systems Engineer 🛠️</h1>
+<h1> align="center">Lucas — DevSecOps, SRE & Systems Engineer 🛠️</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Automate.+Secure.+Scale.;Hybrid+Cloud+Architect.;DevSecOps+Driven.;Monitoring+Enthusiast.;Linux+Native." alt="Typing SVG" />
