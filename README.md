@@ -113,8 +113,7 @@ I'm also deeply interested in topics like GDPR, ISO 27001, and security audits.
 - 🛡 **CSNA (Certified Stormshield Network Administrator)**: configuration and supervision of Stormshield firewalls.
 - 📊 **Zabbix Certified Specialist**: expertise in distributed monitoring with advanced alerting.
 - 🔐 **ISO 27005 Certified**: risk analysis and information security management.
-- 🖥 **RHCA (Red Hat Certified Architect)**: designing and deploying complex Linux solutions.
-- 🚀 **RHCE (Red Hat Certified Engineer)**: currently in progress, to deepen Linux tuning and troubleshooting skills.
+- 🖥 **RHCSA (Red Hat Certified System Administrator)**: designing and deploying Linux solutions.
 
 ---
 
